@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Khita2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="txtpassword">Input password</string>
+    <string name="txtusername">Username required</string>
+    <string name="button_text">Create Account</string>
+    <string name="text_button">Login</string>
+    <string name="txtfname">Input First Name</string>
+    <string name="txtlname">Input Last Name</string>
+    <string name="txtemail">Email Address Required</string>
+    <string name="txtphone">Cellphone Number</string>
+    <string name="txthomepage">Welcome to your home page.</string>
+</resources>

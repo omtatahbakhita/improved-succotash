@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_top">40dp</dimen>
+    <dimen name="layout_width">180dp</dimen>
+    <dimen name="width_layout">220dp</dimen>
+    <dimen name="wlayout">190dp</dimen>
+    <dimen name="margintop">20dp</dimen>
+</resources>
